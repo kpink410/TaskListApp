@@ -1,0 +1,8 @@
+Enter new information in the database
+Check database updates
+Notify the team
+Work on new GUI 
+Test Navigation
+Push to test
+Ask Team to Review
+

@@ -1,0 +1,7 @@
+Check for database updates
+Notify team
+Work on Interface
+Test navigation
+Push to test
+Request team to review
+Enter on DevOps Board
