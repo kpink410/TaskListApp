@@ -9,7 +9,7 @@ namespace TaskList
 {
     public class Program
     {
-        private static string filename = "c:\\Users\\KevinPink-4s\\source\\repos\\TaskListApp\\todo.txt";
+        public static string filename = "c:\\Users\\KevinPink-4s\\source\\repos\\TaskListApp\\todo.txt";
         static void Main(string[] args)
         {
             int menuItem = -1;
